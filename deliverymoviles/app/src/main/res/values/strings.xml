@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">deliverymoviles</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account? Register here</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register_here">Register Here ;)</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="open_drawer" />
+    <string name="close_drawer" />
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="products_title">Products</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_item_one_title" />
+    <string name="menu_item_two_title" />
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+
+</resources>

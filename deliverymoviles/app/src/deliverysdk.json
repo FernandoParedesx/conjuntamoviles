@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018499512557",
+    "project_id": "deliverymoviles",
+    "storage_bucket": "deliverymoviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018499512557:android:d954289d1e599e3b16f4e4",
+        "android_client_info": {
+          "package_name": "com.example.deliverymoviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJKZCvU1b7bOPTFfX0aCC1Pepw0OpPZhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
